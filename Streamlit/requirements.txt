@@ -5,3 +5,5 @@ matplotlib
 scikit-learn
 textblob
 wordcloud
+altair
+
